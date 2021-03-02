@@ -1,4 +1,4 @@
-### Hi there 👋
+hi, not much to see here. 
 
 <!--
 **Bizzaro/bizzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
