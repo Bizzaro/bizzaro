@@ -1,5 +1,5 @@
 hi, not much to see here.  
-most of my work is done in private repos.  
+most of my work is done in private repos bc i like money.
 
 
 <!--
