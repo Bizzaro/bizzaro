@@ -8,4 +8,4 @@
   <img width="250" src="https://user-images.githubusercontent.com/10475262/135365194-0d2b2a0a-9e07-4897-9c6b-0551b8b44f17.png" />
 </p>
 
-btw i use arch
+i use arch btw
