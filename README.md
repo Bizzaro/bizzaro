@@ -1,4 +1,4 @@
-I run [EndeavourOS](https://endeavouros.com/) off an external NVMe drive, it's a godsend now that I don't feel like installing arch by hand.
+I highly recommend [EndeavourOS](https://endeavouros.com/) if you like Arch but value your time.
 
 <p>
   <img src="https://user-images.githubusercontent.com/10475262/135364998-637d8829-6b19-4fe5-b1cb-b2ee641a912a.png" /> 
