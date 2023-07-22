@@ -1,5 +1,6 @@
 # Welcome 👋
 
+Supporter of Right to Repair.  
 I highly recommend [EndeavourOS](https://endeavouros.com/) if you like Arch but value your time.
 
 ---
