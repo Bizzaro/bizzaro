@@ -1,19 +1,3 @@
-# Welcome 👋
-
-Supporter of Right to Repair.  
-I highly recommend [EndeavourOS](https://endeavouros.com/) if you like Arch but value your time.
-
----
-
-My philosophy on technical evaluations revolves around practicality and the importance of meaningful interactions rather than an overemphasis on data structure/algorithm-heavy screenings.
-
-When reaching out, kindly include base salary ranges for a more productive discussion. 😁
-
-I am open to discussing my previous projects, engaging in code reviews, live coding small features, addressing minor bugs, conducting unit tests, or discussing system design. I value simulations of real working environments as they provide meaningful insights into my skills and potential contributions.
-
-I decline to support recruitment pipelines that require experienced developers to complete algorithm challenges, as it can negatively impact both inexperienced developers and incentivize a focus on algorithm grinding rather than fostering practical skills and growth in the industry. Grinding algorithms doesn't make the world better. Let's prioritize solving real business problems, delivering value to customers, and embark on a collaborative and rewarding journey together. 🚀
-
----
 <p>
   <img width="500" src="https://github.com/Bizzaro/bizzaro/assets/10475262/72b7ff1b-aeb0-4e4d-ad77-339fb864b3ef" />
   <img width="500" src="https://github.com/Bizzaro/bizzaro/assets/10475262/2853bbc6-8076-4477-a149-b9b73ac02ae7" />
